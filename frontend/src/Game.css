@@ -1,0 +1,28 @@
+.player-list {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 16px;
+}
+
+.player-item {
+    margin-right: 8px;
+}
+
+.player-active {
+    color: red;
+}
+
+.image {
+    max-width: 320px;
+    max-height: 320px;
+}
+
+.action {
+    background: white;
+    color: #282c34;
+    padding: 16px;
+}
+
+.button {
+    padding: 32px;
+}
